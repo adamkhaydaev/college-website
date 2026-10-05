@@ -1,6 +1,6 @@
-# First Site
+# college-website
 
-Учебный проект — многостраничный сайт.
+Официальный многостраничный сайт колледжа. HTML, CSS, JavaScript, PHP. Production: kud-college.ru
 
 ## 🚀 Запуск
 
