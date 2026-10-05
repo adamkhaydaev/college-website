@@ -66,11 +66,15 @@
 ```text
 .
 ├── index.html
-├── css/
-├── js/
-├── images/
-├── pages/
-└── PHP-файлы для обработки форм
+├── about.html
+├── news.html
+├── announcements.html
+├── ... другие HTML-страницы
+├── announcements-data.js
+├── send_mail.php
+├── catering_mail.php
+├── images (*.png, *.ico)
+└── README.md
 ```
 
 Структура может меняться по мере дальнейшего рефакторинга проекта.
